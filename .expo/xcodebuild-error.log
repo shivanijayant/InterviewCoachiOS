@@ -1,0 +1,7 @@
+** BUILD FAILED **
+
+
+The following build commands failed:
+	PrecompileModule /Users/shivanijayant/Library/Developer/Xcode/DerivedData/InterviewCoach-djpzdyeygcnewkflckqcorlbvjpg/Build/Intermediates.noindex/ExplicitPrecompiledModules/RNFBApp-D2KVXRNP5TZDMDFIGCAVWRB35.scan
+	Building workspace InterviewCoach with scheme InterviewCoach and configuration Debug
+(2 failures)
